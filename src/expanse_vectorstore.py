@@ -18,10 +18,10 @@ bg1 = background_info1.text
 bg2 = background_info2.text
 millerTV = ""
 millerBook = ""
-with open("millerTV.txt", "r") as file:
+with open("txtfiles/millerTV.txt", "r") as file:
     # Read the entire file content as a string
     millerTV = file.read()
-with open("millerBook.txt", "r") as file:
+with open("txtfiles/millerBook.txt", "r") as file:
     # Read the entire file content as a string
     millerBook = file.read()
 
