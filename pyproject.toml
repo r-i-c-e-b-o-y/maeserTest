@@ -1,13 +1,16 @@
 [tool.poetry]
-name = "miller"
+name = "millerAI"
 version = "0.1.1"
 description = "This ai chat bot simulates Detective Miller from The Expanse using the maeser project"
 authors = ["Gohaun Manley"]
 include = [
-    "maeser/data/*",
-    "maeser/data/templates/*",
-    "maeser/data/static/*"
+    "images/*",
 ]
+
+#"maeser/data/*",
+#"maeser/data/templates/*",
+#"maeser/data/static/*",
+
 
 # Dependencies required by your project
 [tool.poetry.dependencies]
