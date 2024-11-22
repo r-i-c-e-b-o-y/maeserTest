@@ -55,10 +55,8 @@ app: Flask = add_flask_blueprint(
     flask_secret_key="secret",
     chat_session_manager=sessions_manager, 
     app_name="Miller",
-    #chat_head="/static/Karl_G_Maeser.png",
     chat_head="src/static/miller.png",
-    #user_manager=user_manager,
-    # Note that you can change other images too! We stick with the defaults for the logo and favicon.
+    user_manager=auth_manager,
     main_logo_light="/static/main_logo_light.png",
     favicon="/static/favicon.png",
 )
