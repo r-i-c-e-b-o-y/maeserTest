@@ -39,6 +39,6 @@ VEC_STORE_PATH = config.get('vectorstore', {}).get('vec_store_path', "resources/
 LLM_MODEL_NAME = config.get('llm', {}).get('llm_model_name', "gpt4o")
 RATE_LIMIT_INTERVAL = int(config.get('rate_limit', {}).get('rate_limit_interval_seconds', 60))
 RESOURCE_PATH = config.get('application', {}).get('chat_flask_resource_path', "resources/web")
-USERS_DB_PATH = config.get('user_management', {}).get('accounts_db_path', "logs/users.db")
+USERS_DB_PATH = config.get('user_management', {}).get('accounts_db_path', "chat_logs/chat_history/users.db")
 FAKE_AUTH = bool(config.get('user_management', {}).get('dummy_authentication', False))
 OPENAI_API_KEY = config.get('api_keys', {}).get('openai_api_key', "")
