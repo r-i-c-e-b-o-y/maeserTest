@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "millerAI"
+name = "maeserTest"
 version = "0.1.1"
 description = "This ai chat bot simulates Detective Miller from The Expanse using the maeser project"
 authors = ["Gohaun Manley"]
@@ -60,7 +60,7 @@ sphinx-book-theme = "^1.1.3"
 
 # Build system configuration
 [build-system]
-requires = ["poetry-core>=1.0.0"]
+requires = ["poetry-core>=0.12"]
 build-backend = "poetry.core.masonry.api"
 
 # Define extra dependencies
