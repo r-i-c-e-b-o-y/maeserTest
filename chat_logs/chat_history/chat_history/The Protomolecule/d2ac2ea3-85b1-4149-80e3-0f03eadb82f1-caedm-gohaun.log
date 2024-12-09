@@ -1,0 +1,113 @@
+branch: The Protomolecule
+messages:
+- content: what kind of power does it possess
+  role: user
+- content: "Oh, buddy, you\u2019re poking around,  \nIn shadows deep, where whispers\
+    \ abound.  \nThe protomolecule, a force so grand,  \nTransforms the flesh and\
+    \ bends the land.  \n\nIts secrets twist like smoke in the night,  \nA power that\
+    \ sparks both awe and fright.  \nBut specifics, kid, are a slippery game,  \n\
+    Ask more, and I might just feel the same."
+  context:
+  - 'Laconia Arc
+
+    In Persepolis Rising, set three decades after the Free Navy was defeated, the
+    Laconians reemerge out of their gate with advanced, protomolecule-powered technology,
+    including three incredibly powerful dreadnought battleships. Duarte has also been
+    using the protomolecule on himself to make himself essentially immortal. The Laconians
+    easily take control of the Slow Zone and the solar system, controlling the hub
+    between worlds and creating a vast empire under Duarte''s rule. The Rocinante
+    crew becomes part of the resistance movement on Medina Station in the Slow Zone
+    and successfully manages to stage a revolt that allows them to escape to the various
+    colony worlds. Holden is captured, but the remaining crew of the Rocinante scatters.'
+  - In Tiamat's Wrath, Duarte attempts to attack the creatures that sometimes consume
+    ships traveling between gates, which are realized to be the same forces that killed
+    the protomolecule's creators. This backfires, leading to attacks on all of humanity
+    by these "dark gods." One such attack leaves Duarte catatonic and the empire in
+    disarray. Meanwhile, the fractured crew of the Rocinante successfully destroy
+    the Laconian dreadnought in the Sol system and a dark god attack decimates all
+    ships in the Slow Zone, including the second dreadnought. Realizing they will
+    never have a better chance to destroy the Laconian empire, the crew of the Rocinante
+    lead a massive siege of the Laconian system by the resistance forces and successfully
+    destroy the alien construction platforms that allowed Laconia to build their advanced
+    technology, in addition to recovering Holden.
+  - 'Series overview
+
+    Setting
+
+    Hundreds of years in the future, humanity has colonized the Solar System. The
+    three largest powers are the United Nations of Earth and Luna, the Martian Congressional
+    Republic on Mars, and the Outer Planets Alliance (OPA), a loose political confederation
+    of colonies scattered across the asteroid belt and the moons of Jupiter and Saturn.
+    The United Nations is a militaristic, ultra-capitalist society with authoritarian
+    undertones, while the Martians have evolved into a corporatist culture. Both ruthlessly
+    exploit and oppress the "Belter" populations of the OPA to gain control of their
+    valuable natural resources.'
+  - In Caliban's War, while assisting Ganymede-based biologist Praxidike Meng with
+    finding his missing daughter, the crew of the Rocinante discover a criminal plot
+    by the Mao-Kwikowski company, in league with rogue elements in the UN government,
+    to manufacture protomolecule-enhanced super soldiers by deliberately infecting
+    immunodeficient individuals with the protomolecule to turn them into weapons.
+    With help from Martian marine Bobbie Draper and UN politician Chrisjen Avasarala,
+    they find Meng's daughter, destroy the protomolecule soldiers, and bring those
+    responsible to justice. The protomolecule's structure launches off Venus and travels
+    outside the orbit of Uranus, transforming into a large ring shaped womhole. Holden
+    begins experiencing visions of Miller.
+  cost: 0.0001704
+  execution_time: 2.6147518157958984
+  role: system
+  tokens_used: 0
+- content: what happened to you
+  role: user
+- content: "Ah, kid, you\u2019re digging where you ought not tread,  \nA past like\
+    \ mine is better left unsaid.  \nI\u2019ve danced with danger and stared down\
+    \ the void,  \nBut this old detective\u2019s not easily toyed.  \n\nJust know\
+    \ I\u2019ve seen things that would chill your bone,  \nCaught in the chaos, often\
+    \ alone.  \nSo let\u2019s keep it on the protomolecule\u2019s trail,  \nBefore\
+    \ my patience wears thin and I set sail."
+  context:
+  - Miller and Holden decided to investigate the situation while the rest of the crew
+    hid. Forcing a CPM security officer to open one of the already full radiation
+    shelters, they discovered that all the refugees had been gassed unconscious, and
+    that there was heavy radiation inside, but not before they both got dosed by a
+    heavy dose of radiation themselves. With only hours to live, they managed to shoot
+    their way through the security forces and the infected people from the radiation
+    shelters who were turning into "vomit zombies", and escape to the Rocinante. With
+    radiation sickness, a gunshot wound and a broken arm, Miller barely survived,
+    lying in the sick bay with Holden for several days while the Rocinante travelled
+    to the location of the asteroid Julie had written down.
+  - The first time Miller killed anyone was in his third year working security. He'd
+    been twenty-two, just married, talking about having kids. The call had been from
+    an illegal restaurant almost at the mass center. It happened fast. The perp had
+    come out of the hole with a gun in one hand, dragging a woman by the hair with
+    the other. Miller's partner, a ten year veteran named Carson, had shouted out
+    the warning. The perp had turned, swinging the gun out at arms length like a stuntman
+    in a video. Killing another human was supposed to be hard. The gun came around;
+    the gunman dropped the woman and shouted. It turned out that, for Miller at least,
+    it wasn't that hard.
+  - In Caliban's War, while assisting Ganymede-based biologist Praxidike Meng with
+    finding his missing daughter, the crew of the Rocinante discover a criminal plot
+    by the Mao-Kwikowski company, in league with rogue elements in the UN government,
+    to manufacture protomolecule-enhanced super soldiers by deliberately infecting
+    immunodeficient individuals with the protomolecule to turn them into weapons.
+    With help from Martian marine Bobbie Draper and UN politician Chrisjen Avasarala,
+    they find Meng's daughter, destroy the protomolecule soldiers, and bring those
+    responsible to justice. The protomolecule's structure launches off Venus and travels
+    outside the orbit of Uranus, transforming into a large ring shaped womhole. Holden
+    begins experiencing visions of Miller.
+  - When the Martian ship the Donnager was destroyed, the United Nations withdrew
+    from governing Ceres, assuming the Belt was the culprit. Shaddid, now responsible
+    of keeping the peace while the local government transferred its power to the OPA,
+    felt she couldn't trust Miller, and fired him. Dawes had, however, divulged the
+    fact that Holden had been on the Donnager and survived. Before Miller lost his
+    access codes, he managed to query the docking logs for ships that plausibly could
+    have escaped the Donnager, looking for the ship that had carried Holden off.
+  cost: 0.00018614999999999997
+  execution_time: 2.4723782539367676
+  role: system
+  tokens_used: 0
+real_name: Gohaun Manley
+session_id: d2ac2ea3-85b1-4149-80e3-0f03eadb82f1-caedm-gohaun
+time: '2024-12-09 14:10:28'
+total_cost: 0.00035654999999999997
+total_tokens: 0
+user: caedm.gohaun

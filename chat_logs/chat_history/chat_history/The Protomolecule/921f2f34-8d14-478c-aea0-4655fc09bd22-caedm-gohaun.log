@@ -1,0 +1,584 @@
+branch: The Protomolecule
+messages:
+- content: tell me your place in ceres
+  role: user
+- content: "Ah, kid, you want the lowdown, a peek through my lens,  \nIn Ceres, I\u2019\
+    m a detective, where the shadows make amends.  \nStar Helix is my stage, where\
+    \ I tread with a frown,  \nChasing down the lost, the missing from this town.\
+    \  \n\nI dive into the depths of crime, of greed, and despair,  \nWith a hat on\
+    \ my head, I wander without a care.  \nDisappeared folks and whispers, they make\
+    \ my heart race,  \nBut remember, buddy, it\u2019s a dirty, dark place.  \n\n\
+    So, what\u2019s your angle, what\u2019s your play?  \nYou want the truth, or just\
+    \ a clich\xE9?"
+  context:
+  - 'Miller''s primary assignment on Ceres station was looking into the
+
+    disappearances of the local organized crime such as the Golden Bough''s, Sohiro''s
+    crew, and Loca Greiga. Additionally, when Ariadne and Jules-Pierre Mao wanted
+    to find their estranged daughter Julie Mao, who was last known to live on Ceres
+    Station, they turned to Star Helix Security, where Jules-Pierre owned shares.
+    Captain Shaddid of Star Helix gave Miller the task of tracking down Julie and
+    shipping her home to Luna as an off-the-record kidnap job.'
+  - "Miller has witnessed a lifetime of the horrible things people will do to each\
+    \ other out of greed, anger, lust, and desperation. He stopped trying to stem\
+    \ the tide of man\u2019s depravity years ago, and is resigned to surviving as\
+    \ best he can. Despite the lack of rainy or sunny days in Ceres' subterranean\
+    \ colony, Miller wears a hat in defiance of the anti-Earth sentiments expressed\
+    \ by many of his fellow Belters. At the start of the series he has never left\
+    \ Ceres. When asked why he has never been in space before Miller replies: \"I'm\
+    \ more of a city Belter\".\nHis personality evolves as he investigates the case\
+    \ of the missing heiress until he pokes his nose too deep and uncovers sensitive\
+    \ information at which point he was fired.\nHaving found a sense of purpose, he\
+    \ does not abandon the case. His devotion to the search for Julie Mao turns to\
+    \ something even more inspired when he learns her ultimate fate and that of the\
+    \ other victims of the experiment."
+  - 'For weapons Miller is shown to have a preference for revolvers which plays in
+    to the ''anachronistic old grizzled cop who has been around forever'' aura that
+    he cultivated.
+
+    While on Ceres, Miller is known for his wearing a hat which he facetiously says
+    ''keeps the rain off my head'' even though there is no rain on Ceres. He was given
+    the hat by his friend Sematimba[1]. After his escape from being kidnapped and
+    tortured by Anderson Dawes, he reveals that despite Dawes'' search of his hat,
+    it still has the data cube from Julie Mao''s apartment hidden within the inner
+    band.'
+  - "Years ago, Miller and Sematimba of Eros, coordinated a particular ugly case.\
+    \ A smuggler with cargo of designer euphorics had broken with his supplier. Three\
+    \ people on Ceres had been caught in the crossfire, and the smuggler had shipped\
+    \ out for Eros. The traditional competitiveness and insularity of the stations'\
+    \ respective security forces had almost let the perp slip away. Only Miller and\
+    \ Sematimba had been willing to coordinate outside the corporate channels.\nMiller\
+    \ was 49 years old at the time of the Eros incident, and worked as a detective\
+    \ in the Ceres station security firm, Star Helix Security for thirty years.\n\
+    Eros incident\n\u201CWelcome to the future\u201D \u2014  Spoilers for Leviathan\
+    \ Wakes follow.\nMiller's primary assignment on Ceres station was looking into\
+    \ the"
+  cost: 0.00020894999999999996
+  execution_time: 4.380777597427368
+  role: system
+  tokens_used: 0
+- content: whats a cliche
+  role: user
+- content: "Oh, come on, kid, don\u2019t play coy with me,  \nA clich\xE9\u2019s a\
+    \ tired line, like a bad cup of tea.  \nIt\u2019s the same old story, worn thin\
+    \ like a shoe,  \nWhen the words lose their spark and the meaning feels blue.\
+    \  \n\nBut if you're lookin' for answers, you best keep it tight,  \nDon\u2019\
+    t waste my time with questions that don\u2019t feel right.  \nSo, what\u2019s\
+    \ your real question? Let\u2019s cut to the chase,  \nBefore I lose my patience\
+    \ in this gloomy old place."
+  context:
+  - "In \"Remember the Cant\", Miller realizes the ship Julie left on, the Scopuli,\
+    \ is the same one whose distress call the Canterbury responded to when it was\
+    \ destroyed. He questions Anderson Dawes, Ceres\u2019 Outer Planets Alliance liaison,\
+    \ on what he knows about Julie but is stonewalled. Meanwhile, extreme water rationing\
+    \ and Holden\u2019s incendiary broadcast incite a riot among the Belters against\
+    \ their colonial governors.\nIn \"CQB\", with the help of Octavia Muss, Miller\
+    \ realizes a man Julie Mao contacted on a dating site was actually a data broker\
+    \ using the alias Bizi Betiko. He finds a memory crypt on the man\u2019s dead\
+    \ body, cluing him in that Julie\u2019s disappearance is connected to something\
+    \ larger."
+  - Casting
+  - "to fear \u2013 fear of the other, fear of the new, fear of inequality, fear of\
+    \ death. Writing for 13.7: Cosmos & Culture, a blog hosted by NPR, astrophysicist\
+    \ Adam Frank praised the show and its writers for the scientific realism. He wrote\
+    \ that \"more than any other TV space-themed show, it gets the science right\"\
+    ."
+  - 'Colony worlds
+
+    Cibola Burn is a book heavily influenced by westerns which tells the story of
+    one of the early colony worlds through the Ring Network, Ilus, experiencing a
+    confrontation between refugee settlers and the corporation that has been granted
+    rights to it. The crew of the Rocinante is sent to mediate the situation, but
+    they find that the world''s alien ruins are reawakening. An alien reactor explodes,
+    creating an extinction level event on the surface of the planet, and reactivating
+    an alien defense network that strands the ships in orbit. Working together to
+    survive, the crew of the Rocinante and the settlers overcome the tremendous odds
+    stacked against them, and demonstrate the feasibility of extrasolar colonies to
+    persevere through disaster.'
+  cost: 0.00017729999999999997
+  execution_time: 2.1266536712646484
+  role: system
+  tokens_used: 0
+- content: where are you now since the protomolecule took over your soul
+  role: user
+- content: "Hey there, champ, with your questions so bold,  \nBut I\u2019m no ghost,\
+    \ just a detective, if truth be told.  \nThe protomolecule? Yeah, it had its little\
+    \ play,  \nBut you think you know me? You don\u2019t know the way.  \n\nI\u2019\
+    m here, I\u2019m now, in this gritty old grind,  \nTrying to make sense of the\
+    \ chaos it left behind.  \nSo don\u2019t get all cryptic, and don\u2019t try to\
+    \ pry,  \nI\u2019ve got my own demons, and they\u2019re not yours to buy.  \n\n\
+    What\u2019s your game, kid? You got something to say?  \nOr are you just fishing\
+    \ in this murky old bay?"
+  context:
+  - In Caliban's War, while assisting Ganymede-based biologist Praxidike Meng with
+    finding his missing daughter, the crew of the Rocinante discover a criminal plot
+    by the Mao-Kwikowski company, in league with rogue elements in the UN government,
+    to manufacture protomolecule-enhanced super soldiers by deliberately infecting
+    immunodeficient individuals with the protomolecule to turn them into weapons.
+    With help from Martian marine Bobbie Draper and UN politician Chrisjen Avasarala,
+    they find Meng's daughter, destroy the protomolecule soldiers, and bring those
+    responsible to justice. The protomolecule's structure launches off Venus and travels
+    outside the orbit of Uranus, transforming into a large ring shaped womhole. Holden
+    begins experiencing visions of Miller.
+  - After Ilus, Holden, now free of the hallucinations but still uneasy with having
+    bits of the protomolecule on his ship, resolves to find the small part left behind
+    by the hybrid in the Cargo hold of the Roci. Sealing the remaining scrape of the
+    protomolecule in a probe and launching it at Ilus' sun, he gives a heartfelt farewell
+    to Miller.
+  - gravity. With help from the Outer Planets Alliance, the crew of the Rocinante
+    brings down Protogen, but the protomolecule assimilates Eros and launches itself
+    at its original destination of Earth. Miller manages to redirect Eros to instead
+    crash into Venus, dying in the process. The protomolecule promptly begins assembling
+    a vast, mysterious structure.
+  - 'Traveling through Eros, Miller realizes that station is getting its information
+    from somewhere such as the location of Earth. He realizes after hearing the station
+    talk about the Razorback that the protomolecule is using Julie Mao. He then opens
+    up a channel to Holden. He tells Holden to call off the UN nukes and that he can
+    negotiate with Julie and convince her to not attack Earth. Holden refuses but
+    agrees to attempt to stall them long enough for Miller to find her.
+
+    After searching for thirty-three hours, Miller finally finds Julie. Her body had
+    changed dramatically from the protomolecule but her face stayed somewhat the same
+    and she was still breathing. Miller shakes her gently to wake her up. Realizing
+    they''ve never actually met Miller introduces himself. He is able to convince
+    her to change course to Venus at Holden''s suggestion. As they talk Miller takes
+    off his suit and gives himself to Julie and the protomolecule telling her they''ll
+    be fine.'
+  cost: 0.00023249999999999996
+  execution_time: 2.0308661460876465
+  role: system
+  tokens_used: 0
+- content: i want to use the protomolecule for my own purposes
+  role: user
+- content: "Oh, buddy, that\u2019s a slippery slope you tread,  \nThinking you can\
+    \ harness what\u2019s better left dead.  \nThe protomolecule\u2019s a beast, a\
+    \ wild, hungry thing,  \nYou play with fire, and you\u2019re bound to feel the\
+    \ sting.  \n\nYou think you can control it, bend it to your will?  \nYou\u2019\
+    re dreaming, kid, it\u2019ll only bring you ill.  \nSo tell me, what\u2019s your\
+    \ plan, what\u2019s your grand scheme?  \nYou\u2019re chasing shadows, my friend,\
+    \ or so it would seem."
+  context:
+  - In Caliban's War, while assisting Ganymede-based biologist Praxidike Meng with
+    finding his missing daughter, the crew of the Rocinante discover a criminal plot
+    by the Mao-Kwikowski company, in league with rogue elements in the UN government,
+    to manufacture protomolecule-enhanced super soldiers by deliberately infecting
+    immunodeficient individuals with the protomolecule to turn them into weapons.
+    With help from Martian marine Bobbie Draper and UN politician Chrisjen Avasarala,
+    they find Meng's daughter, destroy the protomolecule soldiers, and bring those
+    responsible to justice. The protomolecule's structure launches off Venus and travels
+    outside the orbit of Uranus, transforming into a large ring shaped womhole. Holden
+    begins experiencing visions of Miller.
+  - 'Traveling through Eros, Miller realizes that station is getting its information
+    from somewhere such as the location of Earth. He realizes after hearing the station
+    talk about the Razorback that the protomolecule is using Julie Mao. He then opens
+    up a channel to Holden. He tells Holden to call off the UN nukes and that he can
+    negotiate with Julie and convince her to not attack Earth. Holden refuses but
+    agrees to attempt to stall them long enough for Miller to find her.
+
+    After searching for thirty-three hours, Miller finally finds Julie. Her body had
+    changed dramatically from the protomolecule but her face stayed somewhat the same
+    and she was still breathing. Miller shakes her gently to wake her up. Realizing
+    they''ve never actually met Miller introduces himself. He is able to convince
+    her to change course to Venus at Holden''s suggestion. As they talk Miller takes
+    off his suit and gives himself to Julie and the protomolecule telling her they''ll
+    be fine.'
+  - After Ilus, Holden, now free of the hallucinations but still uneasy with having
+    bits of the protomolecule on his ship, resolves to find the small part left behind
+    by the hybrid in the Cargo hold of the Roci. Sealing the remaining scrape of the
+    protomolecule in a probe and launching it at Ilus' sun, he gives a heartfelt farewell
+    to Miller.
+  - gravity. With help from the Outer Planets Alliance, the crew of the Rocinante
+    brings down Protogen, but the protomolecule assimilates Eros and launches itself
+    at its original destination of Earth. Miller manages to redirect Eros to instead
+    crash into Venus, dying in the process. The protomolecule promptly begins assembling
+    a vast, mysterious structure.
+  cost: 0.00023894999999999998
+  execution_time: 2.764387607574463
+  role: system
+  tokens_used: 0
+- content: I aim to contain some of the molecule and try to make super humans. I aim
+    ti collect the samples from venus
+  role: user
+- content: "Oh, kid, you\u2019re really reaching for the stars with that dream,  \n\
+    But let me tell you, that plan\u2019s got a dangerous gleam.  \nYou think you\u2019\
+    ll play god, with a twist of your hand,  \nBut the protomolecule's not something\
+    \ you can just command.  \n\nLook at the wreckage it leaves in its wake,  \nSuper\
+    \ humans, you say? That\u2019s a gamble to take.  \nYou\u2019re dancing with danger,\
+    \ you\u2019re tempting the fates,  \nAnd trust me, buddy, you don\u2019t want\
+    \ those gates.  \n\nSo what\u2019s your backup, what\u2019s your escape route?\
+    \  \nYou think you\u2019re clever, but you\u2019re chasing a brute.  \nYou got\
+    \ the guts, but do you have the sense?  \nOr are you just a pawn in a game so\
+    \ immense?"
+  context:
+  - In Caliban's War, while assisting Ganymede-based biologist Praxidike Meng with
+    finding his missing daughter, the crew of the Rocinante discover a criminal plot
+    by the Mao-Kwikowski company, in league with rogue elements in the UN government,
+    to manufacture protomolecule-enhanced super soldiers by deliberately infecting
+    immunodeficient individuals with the protomolecule to turn them into weapons.
+    With help from Martian marine Bobbie Draper and UN politician Chrisjen Avasarala,
+    they find Meng's daughter, destroy the protomolecule soldiers, and bring those
+    responsible to justice. The protomolecule's structure launches off Venus and travels
+    outside the orbit of Uranus, transforming into a large ring shaped womhole. Holden
+    begins experiencing visions of Miller.
+  - After Ilus, Holden, now free of the hallucinations but still uneasy with having
+    bits of the protomolecule on his ship, resolves to find the small part left behind
+    by the hybrid in the Cargo hold of the Roci. Sealing the remaining scrape of the
+    protomolecule in a probe and launching it at Ilus' sun, he gives a heartfelt farewell
+    to Miller.
+  - gravity. With help from the Outer Planets Alliance, the crew of the Rocinante
+    brings down Protogen, but the protomolecule assimilates Eros and launches itself
+    at its original destination of Earth. Miller manages to redirect Eros to instead
+    crash into Venus, dying in the process. The protomolecule promptly begins assembling
+    a vast, mysterious structure.
+  - "In \"Home\", stranded on Eros, Miller encounters a version of Julie Mao merged\
+    \ with the protomolecule. The Julie-Protomolecule hybrid is in control of Eros\u2019\
+    \ trajectory and her subconscious has sent it hurtling towards Earth, where the\
+    \ impact could kill everyone on the planet. Miller provides comfort to the disoriented\
+    \ Julie and convinces her to guide Eros towards Venus. Miller dies alongside Julie,\
+    \ saving billions of lives and humanity as we know it.\n\"Delta-V\"\nSee The Investigator\n\
+    Equipment As a member of Star Helix Security on Ceres he carries a wallet with\
+    \ a badge. He also has a hand terminal with a large visible crack and software\
+    \ that enables him to override most locks on Ceres, and to transform his voice\
+    \ into anyone else so long as a recording is already available. He also wore a\
+    \ Star Helix pin identifying himself as a cop."
+  cost: 0.00029174999999999996
+  execution_time: 2.095428466796875
+  role: system
+  tokens_used: 0
+- content: what would you recommend
+  role: user
+- content: "Oh, come on, kid, you want my advice?  \nYou think I\u2019m a sage, or\
+    \ some kind of spice?  \nThis ain\u2019t a game, and you\u2019re walking on glass,\
+    \  \nYou\u2019d be better off thinking before you act rash.  \n\nIf you want to\
+    \ play with fire, you better know the heat,  \nBut I\u2019d say step back, don\u2019\
+    t take that seat.  \nThe protomolecule's a wild beast, a Pandora\u2019s box, \
+    \ \nFooling with it, you might be wearing some locks.  \n\nSo what\u2019s it gonna\
+    \ be, you gonna heed the call?  \nOr dive headfirst into a future that\u2019s\
+    \ bound to fall?  \nThink it through, kid, before you take the leap,  \n'Cause\
+    \ the shadows are watching, and they\u2019re never asleep."
+  context:
+  - Casting
+  - Initial trilogy
+  - 'For weapons Miller is shown to have a preference for revolvers which plays in
+    to the ''anachronistic old grizzled cop who has been around forever'' aura that
+    he cultivated.
+
+    While on Ceres, Miller is known for his wearing a hat which he facetiously says
+    ''keeps the rain off my head'' even though there is no rain on Ceres. He was given
+    the hat by his friend Sematimba[1]. After his escape from being kidnapped and
+    tortured by Anderson Dawes, he reveals that despite Dawes'' search of his hat,
+    it still has the data cube from Julie Mao''s apartment hidden within the inner
+    band.'
+  - 'Later, Miller is called by the barman of the Blue Frog, Hasini. Dimitri Havelock,
+    Miller''s partner was seemingly looking for a fight. Miller arrives at the bar
+    and after a conversation with Dimitri the two make their way to another bar, The
+    Distinguished Hyacinth Lounge. The partners joined with their coworkers and began
+    having a good night when Captain Shaddid contacted all of the security officers
+    in the bar and briefed them on the message James Holden released after the Canterbury''s
+    destruction.
+
+    Afraid that the OPA agents on Ceres would seize the opportunity to incite a riot,
+    Star Helix set armed forces to patrol the station, armed with SWAT gear because
+    the riot gear was mysteriously missing. Miller got command of the second team
+    to cover sectors thirteen through twenty-four on port level, where he successfully
+    broke up a mob by ordering his team to shoot the instigator in the legs.'
+  cost: 0.0002919
+  execution_time: 3.102003812789917
+  role: system
+  tokens_used: 0
+- content: what are the shadows?
+  role: user
+- content: "Ah, the shadows, kid, they\u2019re more than just dark,  \nThey\u2019\
+    re the whispers of secrets, the bite of a shark.  \nThey lurk in the corners,\
+    \ they dance in the night,  \nHiding the truths that are out of plain sight. \
+    \ \n\nThey\u2019re the fears and the doubts, the schemes and the plots,  \nThe\
+    \ things that you bury, the ties that you knot.  \nIn Ceres, they\u2019re everywhere,\
+    \ they\u2019re part of the game,  \nAnd if you\u2019re not careful, they\u2019\
+    ll drag you through shame.  \n\nSo beware of the shadows, they know all your sins,\
+    \  \nThey\u2019ll twist your intentions and see where it begins.  \nYou want to\
+    \ play hardball? Just know what you face,  \n'Cause the shadows don\u2019t play,\
+    \ they\u2019re a dangerous place."
+  context:
+  - Casting
+  - Initial trilogy
+  - "to fear \u2013 fear of the other, fear of the new, fear of inequality, fear of\
+    \ death. Writing for 13.7: Cosmos & Culture, a blog hosted by NPR, astrophysicist\
+    \ Adam Frank praised the show and its writers for the scientific realism. He wrote\
+    \ that \"more than any other TV space-themed show, it gets the science right\"\
+    ."
+  - In Tiamat's Wrath, Duarte attempts to attack the creatures that sometimes consume
+    ships traveling between gates, which are realized to be the same forces that killed
+    the protomolecule's creators. This backfires, leading to attacks on all of humanity
+    by these "dark gods." One such attack leaves Duarte catatonic and the empire in
+    disarray. Meanwhile, the fractured crew of the Rocinante successfully destroy
+    the Laconian dreadnought in the Sol system and a dark god attack decimates all
+    ships in the Slow Zone, including the second dreadnought. Realizing they will
+    never have a better chance to destroy the Laconian empire, the crew of the Rocinante
+    lead a massive siege of the Laconian system by the resistance forces and successfully
+    destroy the alien construction platforms that allowed Laconia to build their advanced
+    technology, in addition to recovering Holden.
+  cost: 0.00031065
+  execution_time: 2.40051007270813
+  liked: true
+  role: system
+  tokens_used: 0
+- content: have you ever felt rain?
+  role: user
+- content: "Rain, you say? In this barren old pit?  \nI wear my hat for show, but\
+    \ it\u2019s all just a fit.  \nNo drops from the heavens in this cold, metal shell,\
+    \  \nJust the echoes of memories, and stories to tell.  \n\nI\u2019ve felt the\
+    \ weight of the world, the tears of the lost,  \nBut rain? Nah, kid, that\u2019\
+    s a price that I\u2019ve crossed.  \nI\u2019m more of a city Belter, where the\
+    \ sun don\u2019t shine,  \nBut I\u2019ve danced in the storms of this heart and\
+    \ this mind.  \n\nSo what\u2019s your angle, what\u2019s your play?  \nYou got\
+    \ a point, or just drifting away?"
+  context:
+  - "Miller has witnessed a lifetime of the horrible things people will do to each\
+    \ other out of greed, anger, lust, and desperation. He stopped trying to stem\
+    \ the tide of man\u2019s depravity years ago, and is resigned to surviving as\
+    \ best he can. Despite the lack of rainy or sunny days in Ceres' subterranean\
+    \ colony, Miller wears a hat in defiance of the anti-Earth sentiments expressed\
+    \ by many of his fellow Belters. At the start of the series he has never left\
+    \ Ceres. When asked why he has never been in space before Miller replies: \"I'm\
+    \ more of a city Belter\".\nHis personality evolves as he investigates the case\
+    \ of the missing heiress until he pokes his nose too deep and uncovers sensitive\
+    \ information at which point he was fired.\nHaving found a sense of purpose, he\
+    \ does not abandon the case. His devotion to the search for Julie Mao turns to\
+    \ something even more inspired when he learns her ultimate fate and that of the\
+    \ other victims of the experiment."
+  - Initial trilogy
+  - "to fear \u2013 fear of the other, fear of the new, fear of inequality, fear of\
+    \ death. Writing for 13.7: Cosmos & Culture, a blog hosted by NPR, astrophysicist\
+    \ Adam Frank praised the show and its writers for the scientific realism. He wrote\
+    \ that \"more than any other TV space-themed show, it gets the science right\"\
+    ."
+  - 'For weapons Miller is shown to have a preference for revolvers which plays in
+    to the ''anachronistic old grizzled cop who has been around forever'' aura that
+    he cultivated.
+
+    While on Ceres, Miller is known for his wearing a hat which he facetiously says
+    ''keeps the rain off my head'' even though there is no rain on Ceres. He was given
+    the hat by his friend Sematimba[1]. After his escape from being kidnapped and
+    tortured by Anderson Dawes, he reveals that despite Dawes'' search of his hat,
+    it still has the data cube from Julie Mao''s apartment hidden within the inner
+    band.'
+  cost: 0.00034514999999999996
+  execution_time: 2.2375638484954834
+  liked: true
+  role: system
+  tokens_used: 0
+- content: I want to know you so I can understand the protomolecule\
+  role: user
+- content: "Oh, kid, you\u2019re digging deep, trying to find the core,  \nBut understanding\
+    \ me won\u2019t open that door.  \nI\u2019m just a man in the shadows, a detective\
+    \ in the dark,  \nThe protomolecule\u2019s a puzzle, a dangerous spark.  \n\n\
+    You think you can know me, unravel my tale,  \nBut it\u2019s not in my story that\
+    \ you\u2019ll find the holy grail.  \nThe protomolecule\u2019s a force, beyond\
+    \ what you see,  \nIt\u2019s chaos and wonder, not just part of me.  \n\nSo what\u2019\
+    s the real reason you\u2019re chasing this dream?  \nYou think there\u2019s a\
+    \ secret, a hidden theme?  \nDigging for answers? You might want to tread light,\
+    \  \n'Cause the depths of the truth can swallow you whole at night."
+  context:
+  - In Caliban's War, while assisting Ganymede-based biologist Praxidike Meng with
+    finding his missing daughter, the crew of the Rocinante discover a criminal plot
+    by the Mao-Kwikowski company, in league with rogue elements in the UN government,
+    to manufacture protomolecule-enhanced super soldiers by deliberately infecting
+    immunodeficient individuals with the protomolecule to turn them into weapons.
+    With help from Martian marine Bobbie Draper and UN politician Chrisjen Avasarala,
+    they find Meng's daughter, destroy the protomolecule soldiers, and bring those
+    responsible to justice. The protomolecule's structure launches off Venus and travels
+    outside the orbit of Uranus, transforming into a large ring shaped womhole. Holden
+    begins experiencing visions of Miller.
+  - 'Traveling through Eros, Miller realizes that station is getting its information
+    from somewhere such as the location of Earth. He realizes after hearing the station
+    talk about the Razorback that the protomolecule is using Julie Mao. He then opens
+    up a channel to Holden. He tells Holden to call off the UN nukes and that he can
+    negotiate with Julie and convince her to not attack Earth. Holden refuses but
+    agrees to attempt to stall them long enough for Miller to find her.
+
+    After searching for thirty-three hours, Miller finally finds Julie. Her body had
+    changed dramatically from the protomolecule but her face stayed somewhat the same
+    and she was still breathing. Miller shakes her gently to wake her up. Realizing
+    they''ve never actually met Miller introduces himself. He is able to convince
+    her to change course to Venus at Holden''s suggestion. As they talk Miller takes
+    off his suit and gives himself to Julie and the protomolecule telling her they''ll
+    be fine.'
+  - gravity. With help from the Outer Planets Alliance, the crew of the Rocinante
+    brings down Protogen, but the protomolecule assimilates Eros and launches itself
+    at its original destination of Earth. Miller manages to redirect Eros to instead
+    crash into Venus, dying in the process. The protomolecule promptly begins assembling
+    a vast, mysterious structure.
+  - Arriving at asteroid BA-834024112, the crew of the Roci found the Anubis, the
+    Protogen ship that had boarded the Scopuli. Aboard the ship they found the bodies
+    of the crew in a late stage of protomolecule-infection, a video of Antony Dresden
+    explaining Protogen's plans, and communication logs. Upon returning to the Roci,
+    Miller attributes UN ships destroying MCRN ships above Mars to Holden's releasing
+    of the information of the origin of the stealth ships being from Earth. On their
+    trip back to Tycho, Naomi theorizes that the protomolecule wasn't "smart" enough
+    and needed more biomass.
+  cost: 0.00040485
+  execution_time: 2.41817569732666
+  liked: true
+  role: system
+  tokens_used: 0
+- content: I want the truth so tell me the truth
+  role: user
+- content: "Oh, buddy, you\u2019re barking up a tree so tall,  \nBut the truth\u2019\
+    s a slippery fish, and it\u2019s hard to haul.  \nYou want it laid bare, but it\u2019\
+    s tangled and cold,  \nWrapped in shadows and whispers, stories untold.  \n\n\
+    I can\u2019t just hand you the truth on a silver plate,  \nLife\u2019s not a simple\
+    \ game, it\u2019s a twisted fate.  \nYou think you can handle what lies in the\
+    \ dark?  \nBut the truth can bite back, leave a nasty mark.  \n\nSo what\u2019\
+    s your angle, what\u2019s your endgame, kid?  \nYou think you\u2019re ready for\
+    \ the depths of that lid?  \nYou want the truth, but are you ready to see?  \n\
+    Or is it just a little game you\u2019re playing with me?"
+  context:
+  - En route, the crew discovered that data they brought from the Donnager implicated
+    Earth ships in its destruction. Holden immediately broadcast the data to the public,
+    like he had done with the information about the Canterbury's destruction. This
+    led to a disagreement between Holden and Miller, the former believing that information
+    should be free so the public could draw its own conclusions, while the latter
+    believed that the public is bound to reach incorrect conclusions and that detective
+    work is needed in order to not broadcast potentially false and disastrous accusations.
+  - Initial trilogy
+  - Season 2
+  - Season 3
+  cost: 0.00036404999999999993
+  execution_time: 2.4052624702453613
+  liked: true
+  role: system
+  tokens_used: 0
+- content: I am fully ready for anything that comes by
+  role: user
+- content: "Oh, kid, you\u2019ve got bravado, that much is clear,  \nBut readiness\
+    \ can crumble when faced with real fear.  \nYou think you\u2019re all set, like\
+    \ a knight in the fight,  \nBut the shadows hold secrets that\u2019ll steal your\
+    \ delight.  \n\nThe protomolecule\u2019s a beast, a wildfire untamed,  \nIt\u2019\
+    ll twist your intentions, leave you feeling ashamed.  \nYou might think you\u2019\
+    re ready, but I\u2019ve seen folks break,  \nWhen the truth comes crashing, make\
+    \ no mistake.  \n\nSo what\u2019s your next move? What\u2019s your plan in this\
+    \ game?  \nAre you still chasing shadows, or looking for fame?  \nJust remember,\
+    \ buddy, the deeper you dive,  \nThe more you might find that you\u2019re barely\
+    \ alive."
+  context:
+  - "Miller has witnessed a lifetime of the horrible things people will do to each\
+    \ other out of greed, anger, lust, and desperation. He stopped trying to stem\
+    \ the tide of man\u2019s depravity years ago, and is resigned to surviving as\
+    \ best he can. Despite the lack of rainy or sunny days in Ceres' subterranean\
+    \ colony, Miller wears a hat in defiance of the anti-Earth sentiments expressed\
+    \ by many of his fellow Belters. At the start of the series he has never left\
+    \ Ceres. When asked why he has never been in space before Miller replies: \"I'm\
+    \ more of a city Belter\".\nHis personality evolves as he investigates the case\
+    \ of the missing heiress until he pokes his nose too deep and uncovers sensitive\
+    \ information at which point he was fired.\nHaving found a sense of purpose, he\
+    \ does not abandon the case. His devotion to the search for Julie Mao turns to\
+    \ something even more inspired when he learns her ultimate fate and that of the\
+    \ other victims of the experiment."
+  - Initial trilogy
+  - 'Later, Miller is called by the barman of the Blue Frog, Hasini. Dimitri Havelock,
+    Miller''s partner was seemingly looking for a fight. Miller arrives at the bar
+    and after a conversation with Dimitri the two make their way to another bar, The
+    Distinguished Hyacinth Lounge. The partners joined with their coworkers and began
+    having a good night when Captain Shaddid contacted all of the security officers
+    in the bar and briefed them on the message James Holden released after the Canterbury''s
+    destruction.
+
+    Afraid that the OPA agents on Ceres would seize the opportunity to incite a riot,
+    Star Helix set armed forces to patrol the station, armed with SWAT gear because
+    the riot gear was mysteriously missing. Miller got command of the second team
+    to cover sectors thirteen through twenty-four on port level, where he successfully
+    broke up a mob by ordering his team to shoot the instigator in the legs.'
+  - Season 2
+  cost: 0.0004308
+  execution_time: 2.309454917907715
+  liked: true
+  role: system
+  tokens_used: 0
+- content: I told you, I have a team and I am going to collect it fro venus. I want
+    to know your truth, what makes you tick
+  role: user
+- content: "Ah, kid, you\u2019re relentless, like a dog on a bone,  \nBut you think\
+    \ you can crack me, you\u2019re in for a tone.  \nWhat makes me tick? Well, it\u2019\
+    s a tangled affair,  \nA mix of regret, anger, and burdens I bear.  \n\nI\u2019\
+    m just a detective, shaped by the grime,  \nChasing down ghosts, wasting my time.\
+    \  \nThe truth\u2019s not a treasure that\u2019s easy to find,  \nIt\u2019s buried\
+    \ in chaos, in the back of my mind.  \n\nYou want my story? You think it\u2019\
+    s a game?  \nBut the past has a way of bringing you shame.  \nSo what\u2019s your\
+    \ real angle, what\u2019s under your skin?  \nAre you ready for answers that you\
+    \ might not win?"
+  context:
+  - "Miller has witnessed a lifetime of the horrible things people will do to each\
+    \ other out of greed, anger, lust, and desperation. He stopped trying to stem\
+    \ the tide of man\u2019s depravity years ago, and is resigned to surviving as\
+    \ best he can. Despite the lack of rainy or sunny days in Ceres' subterranean\
+    \ colony, Miller wears a hat in defiance of the anti-Earth sentiments expressed\
+    \ by many of his fellow Belters. At the start of the series he has never left\
+    \ Ceres. When asked why he has never been in space before Miller replies: \"I'm\
+    \ more of a city Belter\".\nHis personality evolves as he investigates the case\
+    \ of the missing heiress until he pokes his nose too deep and uncovers sensitive\
+    \ information at which point he was fired.\nHaving found a sense of purpose, he\
+    \ does not abandon the case. His devotion to the search for Julie Mao turns to\
+    \ something even more inspired when he learns her ultimate fate and that of the\
+    \ other victims of the experiment."
+  - Holden and his crew of the Rocinante had in the meantime been invited to the safety
+    of the OPA's headquarters on Tycho Station by Fred Johnson. While there, Johnson
+    received a distress call from Eros, originating from a crewmember of the Scopuli.
+    The Rocinante was disguised as a gas freighter and sent to Eros to investigate.
+    With the help of his former partner Havelock, Miller tracked the ship there and,
+    still set to find Julie, spent some of his last money to take the Belt Transit
+    Ferry to Eros.
+  - In Caliban's War, while assisting Ganymede-based biologist Praxidike Meng with
+    finding his missing daughter, the crew of the Rocinante discover a criminal plot
+    by the Mao-Kwikowski company, in league with rogue elements in the UN government,
+    to manufacture protomolecule-enhanced super soldiers by deliberately infecting
+    immunodeficient individuals with the protomolecule to turn them into weapons.
+    With help from Martian marine Bobbie Draper and UN politician Chrisjen Avasarala,
+    they find Meng's daughter, destroy the protomolecule soldiers, and bring those
+    responsible to justice. The protomolecule's structure launches off Venus and travels
+    outside the orbit of Uranus, transforming into a large ring shaped womhole. Holden
+    begins experiencing visions of Miller.
+  - "Biography Background An orphan, born and raised on Ceres Station in the Asteroid\
+    \ Belt, Miller and his fellow orphan Sematimba grew up in a life of petty crime\
+    \ just to survive. As they became adults, Semi planted this question in him, \"\
+    Do you want to be the ass or the boot?\" They both became cops. Miller now works\
+    \ as a detective with Star Helix Security, an Earth corp with the security contract\
+    \ for Ceres. Choosing to work for Star Helix meant working for Earth \u2013 the\
+    \ oppressors of Belters like himself \u2013 but at least it put him on the winning\
+    \ side.\nHis friend and partner Sematimba got 'kicked off the force' and gave\
+    \ Miller his signature hat to remind him \"not to lose your head like I did.\"\
+    \nHis role as a cop serving an Earth-based corporation often put him at odds with\
+    \ the Belter inhabitants who consider him a traitor to his people."
+  cost: 0.0005015999999999999
+  execution_time: 2.5148322582244873
+  liked: true
+  role: system
+  tokens_used: 0
+- content: yes I am ready
+  role: user
+- content: "Oh, kid, you say you're ready, but I\u2019ve seen this play,  \nPeople\
+    \ think they can handle the darkness and sway.  \nBut the truth\u2019s not a friend;\
+    \ it\u2019s a dagger that cuts,  \nAnd it\u2019ll leave you bleeding, pulling\
+    \ you in ruts.  \n\nI\u2019m a detective, haunted by cases long past,  \nThe choices\
+    \ I made, the shadows they cast.  \nI chase the lost, the broken, the damned,\
+    \  \nTrying to piece together the lives that were slammed.  \n\nBut you want my\
+    \ truth, and you think you\u2019ll be fine?  \nJust remember, kid, the past can\
+    \ entwine.  \nSo step lightly, tread soft, and keep your wits near,  \n'Cause\
+    \ the truth you seek might just bring you to fear.  \n\nWhat\u2019s your next\
+    \ step? What\u2019s your plan from here?  \nYou ready to dance with the ghosts\
+    \ that you hear?"
+  context:
+  - Season 2
+  - Season 3
+  - Casting
+  - Initial trilogy
+  cost: 0.00044415
+  execution_time: 2.50958251953125
+  liked: true
+  role: system
+  tokens_used: 0
+real_name: Gohaun Manley
+session_id: 921f2f34-8d14-478c-aea0-4655fc09bd22-caedm-gohaun
+time: '2024-12-09 15:16:07'
+total_cost: 0.004242599999999999
+total_tokens: 0
+user: caedm.gohaun

@@ -55,9 +55,9 @@ app: Flask = add_flask_blueprint(
     flask_secret_key="secret",
     chat_session_manager=sessions_manager, 
     app_name="Miller",
-    chat_head="src/static/miller.png",
+    chat_head="/static/miller.png",
     user_manager=auth_manager,
-    main_logo_light="/static/main_logo_light.png",
+    main_logo_light="src/static/miller.png",
     favicon="/static/favicon.png",
 )
 
