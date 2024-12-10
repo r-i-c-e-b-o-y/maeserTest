@@ -16,8 +16,8 @@ background_info2 = wiki_wiki.page("The Expanse (novel series)")
 
 bg1 = background_info1.text
 bg2 = background_info2.text
-millerTV = ""
-millerBook = ""
+holdenTV = ""
+holdenBook = ""
 with open("txtfiles/millerTV.txt", "r") as file:
     # Read the entire file content as a string
     millerTV = file.read()
@@ -31,9 +31,9 @@ from langchain_openai import OpenAIEmbeddings
 from langchain_text_splitters import RecursiveCharacterTextSplitter
 
 text_splitter = RecursiveCharacterTextSplitter(chunk_size=1000, chunk_overlap=100)
-documents = text_splitter.create_documents([bg1, bg2, millerTV, millerBook])
+documents = text_splitter.create_documents([bg1, bg2, holdenTV, holdenBook])
 
 from langchain_community.vectorstores import FAISS
 
 db = FAISS.from_documents(documents, OpenAIEmbeddings())
-db.save_local("vectorstores/miller")
+db.save_local("vectorstores/holden")
