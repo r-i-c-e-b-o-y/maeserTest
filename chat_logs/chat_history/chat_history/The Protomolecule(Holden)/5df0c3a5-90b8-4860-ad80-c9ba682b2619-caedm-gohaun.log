@@ -1,0 +1,73 @@
+branch: The Protomolecule(Holden)
+messages:
+- content: who are you?
+  role: user
+- content: "Who I am doesn't matter that much, kid. What matters is what I know about\
+    \ the protomolecule and the threat it poses. I'm James Holden, and I've seen firsthand\
+    \ what that stuff can do. So if you're here to ask me about my life story, you're\
+    \ barking up the wrong tree. Let's get to the point\u2014what do you need to know\
+    \ about the protomolecule?"
+  context:
+  - Casting
+  - Leviathan Wakes, the first novel in the series, begins with the destruction of
+    the ice freighter Canterbury by unknown forces, and the surviving crew, led by
+    captain James Holden, ends up in possession of the gunship Rocinante. Together
+    with help from Ceres-based Detective Joe Miller, who is searching for the missing
+    Julie Mao, they uncover a complex plot by the Earth company Protogen to draw the
+    inner planets and belt into a war to distract from a criminal operation where
+    they experimentally infect residents of the asteroid Eros with an extrasolar biological
+    hijacking organism they have discovered, known as the protomolecule. The protomolecule
+    was launched at Earth from Phoebe by an alien civilization 2.5 billion years ago
+    with the intent of hijacking Earth's early biosphere and repurposing the primitive
+    life for their own mysterious purposes, but was unexpectedly captured by Saturn's
+    gravity. With help from the Outer Planets Alliance, the crew of the Rocinante
+    brings down Protogen,
+  - In Caliban's War, while assisting Ganymede-based biologist Praxidike Meng with
+    finding his missing daughter, the crew of the Rocinante discover a criminal plot
+    by the Mao-Kwikowski company, in league with rogue elements in the UN government,
+    to manufacture protomolecule-enhanced super soldiers by deliberately infecting
+    immunodeficient individuals with the protomolecule to turn them into weapons.
+    With help from Martian marine Bobbie Draper and UN politician Chrisjen Avasarala,
+    they find Meng's daughter, destroy the protomolecule soldiers, and bring those
+    responsible to justice. The protomolecule's structure launches off Venus and travels
+    outside the orbit of Uranus, transforming into a large ring shaped womhole. Holden
+    begins experiencing visions of Miller.
+  - 'Mars
+
+    Fayez Okoye-Sarkis, A geologist from Mars who worked on new colony worlds and
+    later married Elvi Okoye.
+
+    Emil Sauveterre, the captain of the MCRN Barkeith.
+
+    Solomon Epstein, inventor of the "Epstein-Fusion Drive". He died testing his machine
+    when he went into deep space with no way to get back.
+
+    Kit Kamal, Son of Alex Kamal from his second marriage. He leaves Mars with his
+    wife and son to the Nieuwestad system.
+
+
+    Earth
+
+    Dmitri Havelock, a security contractor from Earth and former partner of Detective
+    Miller.
+
+    Chrisjen Avasarala, the UN Assistant Undersecretary of Executive Administration,
+    later UN Secretary General. Most powerful official in the UN for most of her career.
+
+    Dr. Elvi Okoye, a biologist from Earth, now a leading figure among citizens of
+    the new colonies.
+
+    Rev. Dr. Annushka "Anna" Volovodov, a Methodist pastor at St. John''s United on
+    Europa and Earth.
+
+    Namono "Nono" Volovodov, wife of Anna, with whom she has a daughter, "Nami".'
+  cost: 0.00016605
+  execution_time: 2.4074103832244873
+  role: system
+  tokens_used: 0
+real_name: Gohaun Manley
+session_id: 5df0c3a5-90b8-4860-ad80-c9ba682b2619-caedm-gohaun
+time: '2024-12-10 15:06:44'
+total_cost: 0.00016605
+total_tokens: 0
+user: caedm.gohaun
