@@ -1,0 +1,67 @@
+branch: The Protomolecule(Holden)
+messages:
+- content: Tell me about yourself and your experiences with the protomolecule
+  role: user
+- content: "Hey there, kid. You want to know about me? I'm James Holden, captain of\
+    \ the Rocinante, and I've had my fair share of encounters with that nightmare\
+    \ known as the protomolecule. It all kicked off when my crew and I stumbled upon\
+    \ the destruction of the ice freighter Canterbury, which led us down a rabbit\
+    \ hole of corporate intrigue and biological horror.\n\nWe discovered that Protogen\
+    \ was using the protomolecule to turn people into weapons. It was a pretty messed-up\
+    \ operation, and things just got worse from there. Eros, that station, became\
+    \ a hellhole where the protomolecule ran rampant. We had to crash it into Venus\
+    \ to stop it from reaching Earth. And believe me, that was just scratching the\
+    \ surface of the chaos it can unleash.\n\nI've seen things that would make your\
+    \ skin crawl, and I'm telling you, we need to do everything we can to stop this\
+    \ thing from spreading. But don't get too comfortable, buddy. Just because I\u2019\
+    m sharing this doesn't mean I trust you yet. So, what\u2019s your angle?"
+  context:
+  - In Caliban's War, while assisting Ganymede-based biologist Praxidike Meng with
+    finding his missing daughter, the crew of the Rocinante discover a criminal plot
+    by the Mao-Kwikowski company, in league with rogue elements in the UN government,
+    to manufacture protomolecule-enhanced super soldiers by deliberately infecting
+    immunodeficient individuals with the protomolecule to turn them into weapons.
+    With help from Martian marine Bobbie Draper and UN politician Chrisjen Avasarala,
+    they find Meng's daughter, destroy the protomolecule soldiers, and bring those
+    responsible to justice. The protomolecule's structure launches off Venus and travels
+    outside the orbit of Uranus, transforming into a large ring shaped womhole. Holden
+    begins experiencing visions of Miller.
+  - gravity. With help from the Outer Planets Alliance, the crew of the Rocinante
+    brings down Protogen, but the protomolecule assimilates Eros and launches itself
+    at its original destination of Earth. Miller manages to redirect Eros to instead
+    crash into Venus, dying in the process. The protomolecule promptly begins assembling
+    a vast, mysterious structure.
+  - "Season 2\nThe crew of the Rocinante, along with members of the OPA, attack the\
+    \ station responsible for the biohazard on Eros. Learning that it is an extra-solar\
+    \ bio-weapon known as the protomolecule, they attempt to destroy Eros. Miller\
+    \ becomes trapped there and dies when it crashes into Venus. Martian Marine Bobbie\
+    \ Draper fights an inhuman figure on Ganymede and later, during peace talks between\
+    \ Earth and Mars, becomes a prot\xE9g\xE9 of Avasarala. The crew tries to help\
+    \ a father, Prax, find his daughter. In the process, they encounter and kill a\
+    \ figure akin to the one that Draper fought, now known as a \"protomolecule hybrid\"\
+    , developed by Jules-Pierre Mao. A research ship, sent to Venus to investigate\
+    \ the crash of Eros into the planet, is stopped dead in the atmosphere and dismantled\
+    \ by the protomolecule."
+  - Leviathan Wakes, the first novel in the series, begins with the destruction of
+    the ice freighter Canterbury by unknown forces, and the surviving crew, led by
+    captain James Holden, ends up in possession of the gunship Rocinante. Together
+    with help from Ceres-based Detective Joe Miller, who is searching for the missing
+    Julie Mao, they uncover a complex plot by the Earth company Protogen to draw the
+    inner planets and belt into a war to distract from a criminal operation where
+    they experimentally infect residents of the asteroid Eros with an extrasolar biological
+    hijacking organism they have discovered, known as the protomolecule. The protomolecule
+    was launched at Earth from Phoebe by an alien civilization 2.5 billion years ago
+    with the intent of hijacking Earth's early biosphere and repurposing the primitive
+    life for their own mysterious purposes, but was unexpectedly captured by Saturn's
+    gravity. With help from the Outer Planets Alliance, the crew of the Rocinante
+    brings down Protogen,
+  cost: 0.00025229999999999995
+  execution_time: 4.2585320472717285
+  role: system
+  tokens_used: 0
+real_name: Gohaun Manley
+session_id: 0b15eb6f-3135-4547-b853-0f8b602bdba7-caedm-gohaun
+time: '2024-12-10 15:08:36'
+total_cost: 0.00025229999999999995
+total_tokens: 0
+user: caedm.gohaun

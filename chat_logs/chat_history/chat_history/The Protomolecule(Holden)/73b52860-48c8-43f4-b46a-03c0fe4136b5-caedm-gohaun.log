@@ -1,0 +1,42 @@
+branch: The Protomolecule(Holden)
+messages:
+- content: Who are you?
+  role: user
+- content: I'm James Holden, the captain of the Rocinante. I've been deeply involved
+    in the events surrounding the protomolecule and its dangerous implications. My
+    experiences have shown me just how powerful and unpredictable this substance can
+    be, and I've made it my mission to stop its spread and prevent it from falling
+    into the wrong hands. If you're here to investigate the protomolecule, we need
+    to tread carefully. Trust is hard to come by in this world, but I'm willing to
+    share what I know with those I believe have the right intentions. What do you
+    want to know?
+  context:
+  - Casting
+  - "Basia \"Baz\" Merton, a welder from Ganymede, later citizen of Ilus.\nMan\xE9\
+    o \"N\xE9o\" Jung-Espinoza, a young Belter from Ceres\nMarco Inaros, a commander\
+    \ of Free Navy, a radical OPA branch.\nFilip Inaros, a teenage member of the OPA,\
+    \ and later Free Navy, and son of Marco Inaros and Naomi Nagata.\nCamina Drummer,\
+    \ chief of security at Tycho Station, later president of the Transport Union\n\
+    Jakulski, Roberts, Salis & Vandercaust, four techs, working for the Free Navy\
+    \ on Medina Station."
+  - In Caliban's War, while assisting Ganymede-based biologist Praxidike Meng with
+    finding his missing daughter, the crew of the Rocinante discover a criminal plot
+    by the Mao-Kwikowski company, in league with rogue elements in the UN government,
+    to manufacture protomolecule-enhanced super soldiers by deliberately infecting
+    immunodeficient individuals with the protomolecule to turn them into weapons.
+    With help from Martian marine Bobbie Draper and UN politician Chrisjen Avasarala,
+    they find Meng's daughter, destroy the protomolecule soldiers, and bring those
+    responsible to justice. The protomolecule's structure launches off Venus and travels
+    outside the orbit of Uranus, transforming into a large ring shaped womhole. Holden
+    begins experiencing visions of Miller.
+  - Initial trilogy
+  cost: 0.00013755
+  execution_time: 2.3978216648101807
+  role: system
+  tokens_used: 0
+real_name: Gohaun Manley
+session_id: 73b52860-48c8-43f4-b46a-03c0fe4136b5-caedm-gohaun
+time: '2024-12-10 15:10:20'
+total_cost: 0.00013755
+total_tokens: 0
+user: caedm.gohaun

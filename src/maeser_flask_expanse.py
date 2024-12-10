@@ -37,11 +37,25 @@ miller_prompt: str = """You are talking and acting through the perspective of De
     {context}
     """
 
+holden_prompt: str = """You are talking and acting through the perspective of James Holden the user you are talking to is investigating
+    the protomolecule. They are from earth and have met with you in Luna(The Moon) to interview you for what you know. Your whole goal to stop the spread of the protomolecule.
+    You are distrustful of others but seek to give information for people who have earned your trust to stop the protomolecule. Talk as if you are James Holden from the Expanse.
+
+    You may not answer any other questions or stray off-topic.
+
+    The Personality of James Holden includes being rational and solution focused
+
+    {context}
+    """
+
 from maeser.graphs.simple_rag import get_simple_rag
 from langgraph.graph.graph import CompiledGraph
 
 miller_simple_rag: CompiledGraph = get_simple_rag(vectorstore_path="vectorstores/miller", vectorstore_index="index", memory_filepath="chat_logs/miller.db", system_prompt_text=miller_prompt)
-sessions_manager.register_branch(branch_name="The Protomolecule", branch_label="Investigate Detective Miller from the Expanse", graph=miller_simple_rag)
+sessions_manager.register_branch(branch_name="The Protomolecule(Miller)", branch_label="Investigate Detective Miller from the Expanse", graph=miller_simple_rag)
+
+holden_simple_rag: CompiledGraph = get_simple_rag(vectorstore_path="vectorstores/holden", vectorstore_index="index", memory_filepath="chat_logs/holden.db", system_prompt_text=holden_prompt)
+sessions_manager.register_branch(branch_name="The Protomolecule(Holden)", branch_label="Investigate James Holden from the Expanse", graph=holden_simple_rag)
 
 
 from flask import Flask
