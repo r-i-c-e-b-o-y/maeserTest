@@ -5,12 +5,14 @@ from caedm import CAEDMAuthenticator
 from gmail import EmailAuthenticator
 from config import (LOG_SOURCE_PATH, OPENAI_API_KEY, PROMPT_PATH,
                     RESOURCE_PATH, USERS_DB_PATH, VEC_STORE_PATH, MAX_REQUESTS_REMAINING, RATE_LIMIT_INTERVAL)
-
-print(f"\n\n\n\n{RATE_LIMIT_INTERVAL}\n\n\n\n")
+import os
 
 auth_manager = UserManager(USERS_DB_PATH, MAX_REQUESTS_REMAINING, RATE_LIMIT_INTERVAL)
 caedm_auth = CAEDMAuthenticator("/etc/ssl/certs")
 gmail_auth = EmailAuthenticator("ldap.google.com", "dc=google,dc=com")
+
+# Set the environment variable
+os.environ["OPENAI_API_KEY"] = OPENAI_API_KEY
 
 auth_manager.register_authenticator("caedm", caedm_auth)
 auth_manager.register_authenticator("gmail", gmail_auth)
