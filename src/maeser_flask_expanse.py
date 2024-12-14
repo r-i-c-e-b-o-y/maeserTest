@@ -1,19 +1,14 @@
 from maeser.chat.chat_logs import ChatLogsManager
 from maeser.chat.chat_session_manager import ChatSessionManager
 from maeser.user_manager import UserManager
+from caedm import CAEDMAuthenticator
+from gmail import EmailAuthenticator
+from config import (LOG_SOURCE_PATH, OPENAI_API_KEY, PROMPT_PATH,
+                    RESOURCE_PATH, USERS_DB_PATH, VEC_STORE_PATH, MAX_REQUESTS_REMAINING, RATE_LIMIT_INTERVAL)
 
-try:
-    from .caedm import CAEDMAuthenticator
-    from .gmail import EmailAuthenticator
-    from .config import (LOG_SOURCE_PATH, OPENAI_API_KEY, PROMPT_PATH,
-                        RESOURCE_PATH, USERS_DB_PATH, VEC_STORE_PATH)
-except ImportError:
-    from caedm import CAEDMAuthenticator
-    from gmail import EmailAuthenticator
-    from config import (LOG_SOURCE_PATH, OPENAI_API_KEY, PROMPT_PATH,
-                        RESOURCE_PATH, USERS_DB_PATH, VEC_STORE_PATH)
+print(f"\n\n\n\n{RATE_LIMIT_INTERVAL}\n\n\n\n")
 
-auth_manager = UserManager(USERS_DB_PATH)
+auth_manager = UserManager(USERS_DB_PATH, MAX_REQUESTS_REMAINING, RATE_LIMIT_INTERVAL)
 caedm_auth = CAEDMAuthenticator("/etc/ssl/certs")
 gmail_auth = EmailAuthenticator("ldap.google.com", "dc=google,dc=com")
 
@@ -51,10 +46,10 @@ holden_prompt: str = """You are talking and acting through the perspective of Ja
 from maeser.graphs.simple_rag import get_simple_rag
 from langgraph.graph.graph import CompiledGraph
 
-miller_simple_rag: CompiledGraph = get_simple_rag(vectorstore_path="vectorstores/miller", vectorstore_index="index", memory_filepath="chat_logs/miller.db", system_prompt_text=miller_prompt)
+miller_simple_rag: CompiledGraph = get_simple_rag(vectorstore_path=f"{VEC_STORE_PATH}/miller", vectorstore_index="index", memory_filepath="chat_logs/miller.db", system_prompt_text=miller_prompt)
 sessions_manager.register_branch(branch_name="The Protomolecule(Miller)", branch_label="Investigate Detective Miller from the Expanse", graph=miller_simple_rag)
 
-holden_simple_rag: CompiledGraph = get_simple_rag(vectorstore_path="vectorstores/holden", vectorstore_index="index", memory_filepath="chat_logs/holden.db", system_prompt_text=holden_prompt)
+holden_simple_rag: CompiledGraph = get_simple_rag(vectorstore_path=f"{VEC_STORE_PATH}/holden", vectorstore_index="index", memory_filepath="chat_logs/holden.db", system_prompt_text=holden_prompt)
 sessions_manager.register_branch(branch_name="The Protomolecule(Holden)", branch_label="Investigate James Holden from the Expanse", graph=holden_simple_rag)
 
 
